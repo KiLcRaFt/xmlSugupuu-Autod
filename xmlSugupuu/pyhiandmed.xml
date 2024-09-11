@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sugupuu>
+	<inimene synniaasta="1981">
+		<nimi>Oksana</nimi>
+		<synnikoht>Tallinn</synnikoht>
+		<lapsed>
+			<inimene synniaasta="1998">
+				<nimi>Aleks</nimi>
+				<synnikoht>Tallinn</synnikoht>
+				<lapsed>
+					<inimene synniaasta="2021">
+						<nimi>Emma</nimi>
+						<synnikoht>Tallinn</synnikoht>
+					</inimene>
+				</lapsed>
+			</inimene>
+			<inimene synniaasta="2006">
+				<nimi>Martin</nimi>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+		</lapsed>
+	</inimene>
+	<inimene synniaasta="1979">
+		<nimi>Roman</nimi>
+		<synnikoht>Tallinn</synnikoht>
+		<lapsed>
+			<inimene synniaasta="2014">
+				<nimi>Mark</nimi>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+			<inimene synniaasta="2007">
+				<nimi>Nastja</nimi>
+				<synnikoht>Tallinn</synnikoht>
+			</inimene>
+		</lapsed>
+	</inimene>
+</sugupuu>
